@@ -8,3 +8,9 @@
   <img 
 align="center"       src="https://camo.githubusercontent.com/43f9c085821a7258745ceed4ecbcc68c3ffd996049c9d0a2a77c74dd1f5dc80b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f666c75747465722f666c75747465722d6f726967696e616c2e737667" width="40" height="40"">
 </div>
+<br>
+<div align="center">
+<a href="https://github.com/alinevitoriasi">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusoliverrs&layout=compact&langs_count=20&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusoliverrs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
